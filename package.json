@@ -1,6 +1,6 @@
 {
   "name": "node-minimal-router",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A minimal router for node",
   "main": "app.js",
   "repository": {
