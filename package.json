@@ -1,0 +1,11 @@
+{
+  "name": "node-router",
+  "version": "1.0.0",
+  "description": "A router for node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "korih",
+  "license": "ISC"
+}
