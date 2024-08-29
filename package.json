@@ -1,7 +1,7 @@
 {
-  "name": "node-router",
+  "name": "node-minimal-router",
   "version": "1.0.0",
-  "description": "A router for node",
+  "description": "A minimal router for node",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
